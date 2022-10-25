@@ -3,5 +3,20 @@ h2 {
 }
 
 body {
-  background-image: url(https://images.unsplash.com/photo-1460467820054-c87ab43e9b59?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjE4MDM3MDc&ixlib=rb-1.2.1&q=80);
+  background-image: url(https://images.unsplash.com/photo-1529699310859-b163e33e4556?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjMwNDI2NTY&ixlib=rb-1.2.1&q=80);
+}
+h3{
+  color: Black;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  text-transform: uppercase;
+    
+}
+ul {
+  color: green;
+  margin: 10px auto;
+  padding: 0 20px;
+  text-align: center;
 }
